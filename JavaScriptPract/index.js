@@ -98,10 +98,10 @@
 
 /////////////////Reduce /////////////////////////
 
-let arr = [1, 2, 3, 4, 5];
+// let arr = [1, 2, 3, 4, 5];
 
-let x = arr.reduce((acc, curr) => {
-  acc = acc + curr;
-  return acc;
-}, 0);
-console.log(x);
+// let x = arr.reduce((acc, curr) => {
+//   acc = acc + curr;
+//   return acc;
+// }, 0);
+// console.log(x);
