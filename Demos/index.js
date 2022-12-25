@@ -9,3 +9,4 @@ function one() {
 
 console.log(one());
 console.log("Namaste JavaScript");
+console.log("React Hooks And handling");
